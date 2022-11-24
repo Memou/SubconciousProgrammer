@@ -1,0 +1,153 @@
+.parallax {
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fixedbackground {
+  /* Create the parallax scrolling effect */
+  background-image: url("resources/sea.jpg");
+  min-height: 900px;}
+
+.parallaxdetails {
+   background-image: url("resources/pexels-ithalu-dominguez-907485.jpg"); 
+  /* background: rgb(182,118,238);
+  background: linear-gradient(90deg, rgba(182,118,238,1) 0%, rgba(254,233,104,1) 28%, rgba(144,250,235,1) 48%, rgba(95,196,223,1) 69%, rgba(240,97,158,1) 100%); */
+  min-height: 820px;
+}
+.parallaxdetails2 {
+   background: rgb(182,118,238);
+  background: linear-gradient(90deg, rgba(182,118,238,1) 0%, rgba(254,233,104,1) 28%, rgba(144,250,235,1) 48%, rgba(95,196,223,1) 69%, rgba(240,97,158,1) 100%); 
+
+  min-height: 5px;
+}
+.borderRainbow{
+  border: 5px solid;
+  border-image-slice: 1;
+  border-image-source: linear-gradient(to right, rgba(182,118,238,1),rgba(254,233,104,1),rgba(144,250,235,1),rgba(95,196,223,1),rgba(240,97,158,1));
+}
+.twocolors {
+  background: linear-gradient(to top,
+      #fef15f 0%,
+      #FEF6BF 50%,
+      white 50%,
+      white 100%);
+  max-width: 100%;
+  max-height: 100%;
+}
+ /*-------- Navbar----------- */
+.navbar-nav .nav-link {
+  color: #361b4e;
+  transition-delay: 0.2s;
+  transition: 0.2s color;
+  font-size:large;
+}
+
+.navbar-nav:hover .nav-link:hover {
+  color: #dc3494;
+}
+.navbar-toggler .line{
+  width: 100%;
+  float: left;
+  height: 2.5px;
+  margin-top: 2px;
+  background-color: #ebe0f5;
+  margin-bottom: 8px;
+}
+
+.navbar-toggler{
+  margin-top: 10px;
+  width: 57px;
+  height: 44px;
+  background-color: #361b4e;} 
+  
+.contactLink {
+  color: #361b4e;
+  transition-delay: 0.2s;
+  transition: 0.2s color;
+}
+.contactLink:hover {
+  color: #dc3494;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.overtint {
+  position: absolute;
+  background-color: rgba(0, 0, 46, .73);
+  height: 100%;
+  opacity: 0.7;
+  max-width: 100%;
+}
+
+.blogHeading {
+  padding: 10px 0 15px 0;
+  font-family: Josefin Sans;
+  font-weight: 100;
+  font-style:normal;
+  font-size: 20px;
+  letter-spacing: .7px;
+  line-height: 1.4em;
+  color: rgba(0, 0, 5, .8);
+}
+
+.blogSignature{
+  padding: 60px 0 0 0; 
+  font-family: Josefin Sans;
+  color:#85b2a3;
+  font-weight: 100;
+  letter-spacing: .7px;
+  line-height: 1.4em;
+  font-size:20px;
+}
+
+.blogParagraph {
+  padding: 15px 0 0 0;
+  font-family: Josefin Sans;
+  font-weight: 100;
+  font-style:normal;
+  font-size: 20px;
+  letter-spacing: .7px;
+  line-height: 1.4em;
+  color: rgba(0, 0, 5, .8);
+}
+
+.blogFooter {
+  padding: 35px 0 30px 0;
+  font-family: Josefin Sans;
+  font-weight: 100;
+  font-style:normal;
+  font-size: 20px;
+  letter-spacing: .7px;
+  line-height: 1.4em;
+  color: rgba(0, 0, 5, .8);
+}
+
+video {
+  clip-path: inset(1px 0px);
+}
+
+@font-face {
+  font-family: "Didot";
+  src: url("resources/fonts/Didot.woff") format('woff');
+}
+@font-face {
+  font-family: "righteous";
+  src: url("resources/fonts/Righteous.woff") format('woff');
+}
+
+@font-face {
+  font-family: "Avenir LT Std";
+  src: url("resources/fonts/AvenirLTStd-Book.woff") format('woff');
+}
