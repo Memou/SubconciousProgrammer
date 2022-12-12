@@ -1,13 +1,28 @@
+--General--
+-Calendly mantikli ayda 12 dolar google meets ile entegre edersen ayda 12 dolar.Navbar i degistirmek mantikli olabilir o durumda.
+-mailchimp account it ac
+-subscribe edenlere pdf yolla.
 -mailchimp validation refix
--video recut
+
+--Index--
+-Specialties sectioni bitir.
+-Video olarak bir tane koy,belki ozel cek.
+-2nd section yaziyi customize et,resim koy.
+-mailchimp account ac.
+-instagram account ac,footer a ekle
+-footer'i diger sayfalara kopyala.
+
+--About--
+-Yaziyi customize et.
+-Resim ekle
+
+--Services--
+-Customize different services,compare with laara and other healers
+-Booking linkini koy
+
+--
+
+
 
 -navbar put jane linkto index and copy it to other pages.
--rename the pictures and change the links or not
 -host pictures in site,host videos in vimeo/imgur
--Index video maybe make it 4k
--add the jane links to book online and services section
-
-Make these hidden:
--open a youtube channel with melissa and upload the video there.
--open jane account (free edition,then we will convert it to premium when time comes) 
--with of subscribe give pdf
