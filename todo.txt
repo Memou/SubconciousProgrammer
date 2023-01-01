@@ -1,7 +1,7 @@
 --General--
 -Calendly mantikli ayda 12 dolar google meets ile entegre edersen ayda 12 dolar.Navbar i degistirmek mantikli olabilir o durumda.
 -subscribe edenlere pdf yolla.Emotions list i yap
--mailchimp validation refix
+-mailchimp validation refix,test et linki.
 -Setup a post office box for mail chimp address
 -Subscribe yerine free pdf falan yaz.
 -Logo center degil mobilde,center et.
